@@ -1,0 +1,10 @@
+﻿  ex2.cpp
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(57,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(103,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(130,30): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(146,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(156,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(177,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(820,9): warning C4101: 'course': unreferenced local variable
+C:\Users\Acer\Desktop\ex2\ex2\ex2.cpp(820,17): warning C4101: 'student_count': unreferenced local variable
+  ex2.vcxproj -> C:\Users\Acer\Desktop\ex2\Debug\ex2.exe
